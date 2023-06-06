@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-shadow: 0;
+ }
+ nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 9rem;
+ }
+ ul {
+    display: flex;
+ }
+ ul li {
+    list-style: none;
+    margin-left: 1.5rem;
+    cursor: pointer;
+    font-family: sans-serif;
+    color: gray;
+ }
+ li input {
+    border: none;
+    outline: none;
+    border-bottom: 1px solid black;
+ }
+ .freedom-1 {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 9rem;
+ }
+    
+ .box-1 img {
+     width: 600px;
+ }
+.text {
+    font-size: 40px; 
+    font-weight: 700;
+}
+.text-box {
+    width: 90%;
+    margin: 3em 0;
+    padding-left: 2rem; 
+    line-height: 25px;
+    border-left: 2px solid gray;
+    color: gray;
+}
+.btn {
+    padding: .8rem 2rem;
+    border: none;
+    background-color:red;
+    color: aliceblue;
+    transition: .5s;
+    cursor: pointer;
+}
+.btn:hover {
+    opacity: .8;
+}
+.text-2 {
+    margin-top: 3%;
+    font-size: 90%;
+    font-weight: 650;
+    margin-left: 2.5%;
+}  
+.text-3 {
+    width: 25%;
+    margin: 3em 0;
+    padding-left: 2rem; 
+    line-height: 25px;
+}  
+.text-4 {
+    margin-top: 5%;
+    font-size: 90%;
+    font-weight: 650;
+    margin-left: 3%;
+}
+.text-5 {
+    width: 30%;
+    margin: 3em 0;
+    padding-left: 2rem; 
+    line-height: 25px;
+}
+.box-3 {
+    margin-left: 35%;
+    margin-top: -20%;
+}
+.text-6 {
+    margin-top: 5%;
+    font-size: 90%;
+    font-weight: 650;
+    margin-left: 3%;
+}
+.text-7 {
+    width: 50%;
+    margin: 3em 0;
+    padding-left: 2rem; 
+    line-height: 25px;
+}
+.box-4 {
+    margin-left: 65%;
+    margin-top: -20%;
+}
+.text-8 {
+    width: 29%;
+    margin-left: 10%;
+    margin-top: 15%;
+    font-size: 40px; 
+    font-weight: 700;
+}
+.text-9 {
+    width: 30%;
+    margin: 3em 0;
+    margin-left: 10%;
+    padding-left: 2rem; 
+    line-height: 25px;
+    border-left: 2px solid gray;
+    color: gray;
+}
+.btn-2 {
+    margin-left: 10%;
+    padding: .6rem 2rem;
+    border: none;
+    background-color:red;
+    color: aliceblue;
+    transition: .5s;
+    cursor: pointer;
+}
+.ras {
+    width: 30%;
+    margin-left: 60%;
+    margin-top: -30%;
+}
+.yugur {
+    width: 100%;
+    margin-top: 15%;
+}
+.text-10 {
+    width: 29%;
+    margin-left: 60%;
+    margin-top: 15%;
+    font-size: 40px; 
+    font-weight: 700;
+    color: white;
+}
+.text-11 {
+    width: 30%;
+    margin: 3em 0;
+    margin-left: 60%;
+    padding-left: 2rem; 
+    line-height: 25px;
+    border-left: 2px solid white;
+    color: white;
+}
+.box-8 {
+    margin-top: -60%;
+}
+.oxxo {
+    margin-left: 60%;
+    padding: .6rem 2rem;
+    border: none;
+    background-color:red;
+    color: aliceblue;
+    transition: .5s;
+    cursor: pointer;
+}
+
+
